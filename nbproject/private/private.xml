@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/work/sharedfolder/websites/apitest/app/Http/Controllers/Auth/RegisterController.php</file>
+            <file>file:/C:/work/sharedfolder/websites/apitest/routes/web.php</file>
+            <file>file:/C:/work/sharedfolder/websites/apitest/app/Http/Controllers/Auth/ResetPasswordController.php</file>
+            <file>file:/C:/work/sharedfolder/websites/apitest/resources/views/emails/notification.blade.php</file>
+            <file>file:/C:/work/sharedfolder/websites/apitest/app/Http/Controllers/EXController.php</file>
+            <file>file:/C:/work/sharedfolder/websites/apitest/app/Providers/RouteServiceProvider.php</file>
+            <file>file:/C:/work/sharedfolder/websites/apitest/app/Http/Controllers/Controller.php</file>
+            <file>file:/C:/work/sharedfolder/websites/apitest/database/migrations/2017_02_23_000001_create_items_table.php</file>
+            <file>file:/C:/work/sharedfolder/websites/apitest/app/Listeners/SendItemStatusChangedNotification.php</file>
+            <file>file:/C:/work/sharedfolder/websites/apitest/app/Http/Controllers/ItemsController.php</file>
+            <file>file:/C:/work/sharedfolder/websites/apitest/app/Http/Controllers/ApiController.php</file>
+            <file>file:/C:/work/sharedfolder/websites/apitest/app/Http/Controllers/FailoverconfigsController.php</file>
+            <file>file:/C:/work/sharedfolder/websites/apitest/app/User.php</file>
+            <file>file:/C:/work/sharedfolder/websites/apitest/app/Http/Controllers/Auth/LoginController.php</file>
+            <file>file:/C:/work/sharedfolder/websites/apitest/routes/api.php</file>
+            <file>file:/C:/work/sharedfolder/websites/apitest/app/Item.php</file>
+            <file>file:/C:/work/sharedfolder/websites/apitest/resources/views/express/welcome.blade.php</file>
+            <file>file:/C:/work/sharedfolder/websites/apitest/database/migrations/2017_03_08_000001_create_failoverconfig_table.php</file>
+            <file>file:/C:/work/sharedfolder/websites/apitest/app/Failoverconfig.php</file>
+        </group>
+    </open-files>
+</project-private>
